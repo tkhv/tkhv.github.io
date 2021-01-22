@@ -1,0 +1,8 @@
+.grid {
+    display: flex;
+
+}
+
+.tile {
+    background-color: khaki;
+}
